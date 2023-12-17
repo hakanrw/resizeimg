@@ -1,0 +1,12 @@
+{
+	"authors": [
+		"Hakan Candar"
+	],
+	"copyright": "Copyleft",
+	"dependencies": {
+		"stb": "~>2.0.3"
+	},
+	"description": "Simple image resizing CLI written with D",
+	"license": "GPL-2.0-only",
+	"name": "resizeimg"
+}
